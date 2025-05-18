@@ -12,10 +12,10 @@ Reescrever elementos de navegação e instrução no processo de login, tornando
 ## ✍️ Antes e Depois
 
 ### Antes:
-![Antes](antes-seguranca-social)
+![Antes](imagens/antes-seguranca-social)
 
 ### Depois:
-![Depois](depois-seguranca-social)
+![Depois](imagens/depois-seguranca-social)
 
 ---
 
